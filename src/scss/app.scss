@@ -1,4 +1,5 @@
-$rojo: red;
+@import 'base/variables';
+@import 'contenido/contenido';
 /* 
     npm run sass --- comando para ejecutar sass 
     Para Gulp correr el comando: >npx gulp dev
