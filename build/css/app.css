@@ -1,4 +1,8 @@
-/* npm run sass --- comando para ejecutar sass */
+/* 
+    npm run sass --- comando para ejecutar sass 
+    Para Gulp correr el comando: >npx gulp dev
+    o correr: >npm run dev
+*/
 body {
   background-color: red;
 }
