@@ -1,5 +1,5 @@
 h1 {
-  color: black;
+  color: green;
 }
 
 /* 
@@ -7,6 +7,3 @@ h1 {
     Para Gulp correr el comando: >npx gulp dev
     o correr: >npm run dev
 */
-body {
-  background-color: black;
-}
