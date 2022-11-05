@@ -1,12 +1,3 @@
-header {
-  color: blue;
-}
-
-h1 {
-  color: red;
-  text-transform: uppercase;
-}
-
 /* 
     npm run sass --- comando para ejecutar sass 
     Para Gulp correr el comando: >npx gulp dev
