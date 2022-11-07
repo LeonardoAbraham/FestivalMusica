@@ -369,6 +369,20 @@ h3 {
   color: #FEF46D;
 }
 
+.prueba {
+  text-transform: uppercase;
+  font-size: 2.4rem;
+  color: black;
+  letter-spacing: 1px;
+}
+
+.texto {
+  text-transform: uppercase;
+  font-size: 2.4rem;
+  color: black;
+  letter-spacing: 1px;
+}
+
 /* 
     npm run sass --- comando para ejecutar sass 
     Para Gulp correr el comando: >npx gulp dev
