@@ -686,6 +686,16 @@ img {
   font-weight: 700;
 }
 
+.site-footer {
+  background-color: #F53756;
+  padding: 1rem;
+}
+.site-footer p {
+  margin: 0;
+  text-align: center;
+  color: #FFFFFF;
+}
+
 /* 
     npm run sass --- comando para ejecutar sass 
     Para Gulp correr el comando: >npx gulp dev
